@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## :computer: Most Languages used
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abeeraftab123&layout=compact)](https://github.com/abeeraftab123/github-readme-stats)
+
+## MY GIT STATS
+<img src="https://github-readme-stats.vercel.app/api?username=abeeraftab123&&show_icons=true&count_private=true&theme=radical"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abeeraftab123&theme=radical"/>
