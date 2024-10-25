@@ -1,5 +1,4 @@
 ## Hi there 👋
-### You know who I am, peace out.
 
 <!--
 **abeeraftab123/abeeraftab123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
